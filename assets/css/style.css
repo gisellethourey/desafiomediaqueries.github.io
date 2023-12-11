@@ -22,9 +22,6 @@ body {
       "main-section"
       "footer";
   }
-  .hide-menu {
-    display: none;
-  }
   .navigation-menu {
     grid-area: navigation-menu;
     display: flex;
